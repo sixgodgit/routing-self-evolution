@@ -1,3 +1,6 @@
+> ⚠️ **已合并到 [Thalamus](https://github.com/sixgodgit/thalamus)** — Hermes 统一模型调度中枢。
+> 本仓库不再维护，所有功能已迁移至 Thalamus。
+
 # 路由自我进化系统
 
 ## 核心机制
